@@ -4,7 +4,7 @@ This is a movie app where you can register categories, genres, cast members, and
 
 The project is still a work in progress
 
-## Necessary tools.
+## Necessary tools
 
 - [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - For Windows:
@@ -42,5 +42,6 @@ The project is still a work in progress
 - [Triple A (Arrange, Act, Assert)](https://martinfowler.com/articles/practical-test-pyramid.html#:~:text=There%27s%20a%20nice%20mnemonic%20to,and%20then%20the%20assertion%20part.)
 
 ## Application diagram
+<img width="475" alt="Movieapp" src="https://github.com/GeoffreyOmollo/movie-application/assets/120243097/f6774e37-880f-426b-ac47-4d0aa2dad736">
 
 

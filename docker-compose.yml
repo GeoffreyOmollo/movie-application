@@ -1,0 +1,16 @@
+version: '3.4'
+
+services:
+  fc.codeflix.catalog.db:
+    container_name: catalogdb
+    hostname: catalogdb
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      ACCEPT_EULA: Y
+      MSSQL_SA_PASSWORD: )q,A2,0*t+(w]FU
+    ports:
+      - 1433:1433   
+
+networks:
+  default:
+    name: service_catalog  

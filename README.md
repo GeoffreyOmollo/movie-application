@@ -41,7 +41,5 @@ The project is still a work in progress
 - [Unit of Work](https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
 - [Triple A (Arrange, Act, Assert)](https://martinfowler.com/articles/practical-test-pyramid.html#:~:text=There%27s%20a%20nice%20mnemonic%20to,and%20then%20the%20assertion%20part.)
 
-## Application diagram
-<img width="475" alt="Movieapp" src="https://github.com/GeoffreyOmollo/movie-application/assets/120243097/f6774e37-880f-426b-ac47-4d0aa2dad736">
 
 
